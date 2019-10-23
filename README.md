@@ -1,4 +1,5 @@
 # Life Balance 
+![Image description](https://benjaminshepherd.github.io/BenShepherdPortfolio/img/gallery/icon.png)
 ### - A tool for creating balance in your tasks
 Life Balance is a task management tool that gives colorful visual feedback to indicate the areas users are giving the most and least attention. 
 
